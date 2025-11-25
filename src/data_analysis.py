@@ -1,6 +1,3 @@
-"""
-Data analysis module for financial news analysis.
-"""
 
 import pandas as pd
 import numpy as np
